@@ -395,3 +395,359 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Deactivate Magne
 [2018.10.03-22.53.30:528][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap'
 [2018.10.03-22.53.30:565][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.10.03-22.53.30:602][263]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.03-22.54.02:950][914]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.03-22.54.02:963][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap'
+[2018.10.03-22.54.02:963][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.03-22.54.02:963][914]PIE: New page: PIE session: FirstMap (4 Oct 2018 00:54:02)
+[2018.10.03-22.54.02:963][914]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap
+[2018.10.03-22.54.02:967][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003135s)
+[2018.10.03-22.54.02:969][914]LogAIModule: Creating AISystem for world FirstMap
+[2018.10.03-22.54.02:969][914]LogPlayLevel: PIE: World Init took: (0.002750s)
+[2018.10.03-22.54.02:969][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/FirstMap.FirstMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap.FirstMap (0.006019s)
+[2018.10.03-22.54.03:001][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.03-22.54.03:008][914]LogInit: FAudioDevice initialized.
+[2018.10.03-22.54.03:038][914]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.03-22.54.03:039][914]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.10.03-23.54.03
+[2018.10.03-22.54.03:039][914]LogWorld: Bringing up level for play took: 0.000659
+[2018.10.03-22.54.03:053][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:053][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:054][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:055][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:056][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:056][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:057][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:057][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:058][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:058][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:059][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:059][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:061][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:063][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:064][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:064][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:065][914]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.03:066][914]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap -0.336
+[2018.10.03-22.54.03:066][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap'
+[2018.10.03-22.54.03:255][934]LogBlueprintUserMessages: [Coin_Pickup_C_0] MagnetNotActive
+[2018.10.03-22.54.03:850][  5]LogBlueprintUserMessages: [FirstTIle_C_0] 15
+[2018.10.03-22.54.04:675][104]LogBlueprintUserMessages: [FirstTIle_C_1] 30
+[2018.10.03-22.54.05:492][202]LogBlueprintUserMessages: [FirstTIle_C_2] 45
+[2018.10.03-22.54.05:941][256]LogBlueprintUserMessages: [Magnet_Pickup_2] MagnetActive
+[2018.10.03-22.54.06:301][299]LogBlueprintUserMessages: [MasterTile_C_0] 60
+[2018.10.03-22.54.06:575][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Right
+[2018.10.03-22.54.07:102][395]LogBlueprintUserMessages: [MasterTile_C_1] 75
+[2018.10.03-22.54.07:894][490]LogBlueprintUserMessages: [MasterTile_C_2] 90
+[2018.10.03-22.54.08:679][584]LogBlueprintUserMessages: [MasterTile_C_3] 105
+[2018.10.03-22.54.09:456][677]LogBlueprintUserMessages: [MasterTile_C_4] 120
+[2018.10.03-22.54.10:223][768]LogBlueprintUserMessages: [MasterTile_C_5] 135
+[2018.10.03-22.54.10:812][838]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Left
+[2018.10.03-22.54.10:988][859]LogBlueprintUserMessages: [MasterTile_C_6] 150
+[2018.10.03-22.54.11:747][948]LogBlueprintUserMessages: [MasterTile_C_7] 165
+[2018.10.03-22.54.12:487][ 35]LogBlueprintUserMessages: [MasterTile_C_8] 180
+[2018.10.03-22.54.13:229][124]LogBlueprintUserMessages: [MasterTile_C_9] 195
+[2018.10.03-22.54.13:963][211]LogBlueprintUserMessages: [MasterTile_C_10] 210
+[2018.10.03-22.54.14:690][298]LogBlueprintUserMessages: [MasterTile_C_11] 225
+[2018.10.03-22.54.15:408][384]LogBlueprintUserMessages: [MasterTile_C_12] 240
+[2018.10.03-22.54.15:940][448]LogBlueprintUserMessages: [Magnet_Pickup_2] magnetinactive
+[2018.10.03-22.54.15:941][448]LogBlueprintUserMessages: [Magnet_Pickup_2] Deactivated
+[2018.10.03-22.54.16:117][469]LogBlueprintUserMessages: [MasterTile_C_13] 255
+[2018.10.03-22.54.16:324][494]LogBlueprintUserMessages: [Coin_Pickup_C_10] MagnetNotActive
+[2018.10.03-22.54.16:817][553]LogBlueprintUserMessages: [MasterTile_C_14] 270
+[2018.10.03-22.54.17:519][637]LogBlueprintUserMessages: [MasterTile_C_15] 285
+[2018.10.03-22.54.17:667][655]LogBlueprintUserMessages: [Coin_Pickup_C_12] MagnetNotActive
+[2018.10.03-22.54.17:718][661]LogBlueprintUserMessages: [Coin_Pickup_C_13] MagnetNotActive
+[2018.10.03-22.54.17:718][661]LogBlueprintUserMessages: [Coin_Pickup_C_11] MagnetNotActive
+[2018.10.03-22.54.18:204][719]LogBlueprintUserMessages: [MasterTile_C_16] 300
+[2018.10.03-22.54.18:884][800]LogBlueprintUserMessages: [MasterTile_C_17] 315
+[2018.10.03-22.54.19:568][882]LogBlueprintUserMessages: [MasterTile_C_18] 330
+[2018.10.03-22.54.20:237][962]LogBlueprintUserMessages: [MasterTile_C_19] 345
+[2018.10.03-22.54.20:897][ 40]LogBlueprintUserMessages: [MasterTile_C_20] 360
+[2018.10.03-22.54.21:038][ 57]LogBlueprintUserMessages: [Coin_Pickup_C_15] MagnetNotActive
+[2018.10.03-22.54.21:089][ 63]LogBlueprintUserMessages: [Coin_Pickup_C_14] MagnetNotActive
+[2018.10.03-22.54.21:553][118]LogBlueprintUserMessages: [MasterTile_C_21] 375
+[2018.10.03-22.54.21:694][135]LogBlueprintUserMessages: [Coin_Pickup_C_17] MagnetNotActive
+[2018.10.03-22.54.21:744][141]LogBlueprintUserMessages: [Coin_Pickup_C_16] MagnetNotActive
+[2018.10.03-22.54.22:205][196]LogBlueprintUserMessages: [MasterTile_C_22] 390
+[2018.10.03-22.54.22:844][272]LogBlueprintUserMessages: [MasterTile_C_23] 405
+[2018.10.03-22.54.23:481][348]LogBlueprintUserMessages: [MasterTile_C_24] 420
+[2018.10.03-22.54.24:113][423]LogBlueprintUserMessages: [MasterTile_C_25] 435
+[2018.10.03-22.54.24:439][462]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.54.24:741][498]LogBlueprintUserMessages: [MasterTile_C_26] 450
+[2018.10.03-22.54.25:356][571]LogBlueprintUserMessages: [MasterTile_C_27] 465
+[2018.10.03-22.54.25:431][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Down
+[2018.10.03-22.54.25:489][587]LogBlueprintUserMessages: [Coin_Pickup_C_19] MagnetNotActive
+[2018.10.03-22.54.25:538][593]LogBlueprintUserMessages: [Coin_Pickup_C_18] MagnetNotActive
+[2018.10.03-22.54.26:054][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Right
+[2018.10.03-22.54.27:646][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-22.54.27:763][857]Cmd: restartlevel
+[2018.10.03-22.54.27:764][857]LogNet: Browse: /Game/ThirdPersonBP/Maps/FirstMap?restart
+[2018.10.03-22.54.27:764][857]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/FirstMap
+[2018.10.03-22.54.27:805][857]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap
+[2018.10.03-22.54.27:809][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003360s)
+[2018.10.03-22.54.27:810][857]LogAIModule: Creating AISystem for world FirstMap
+[2018.10.03-22.54.27:810][857]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.10.03-22.54.27:810][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/FirstMap.FirstMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap.FirstMap (0.004654s)
+[2018.10.03-22.54.27:810][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.03-22.54.27:811][857]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap.FirstMap up for play (max tick rate 0) at 2018.10.03-23.54.27
+[2018.10.03-22.54.27:811][857]LogWorld: Bringing up level for play took: 0.000620
+[2018.10.03-22.54.27:814][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:814][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:815][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:816][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:817][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:818][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:819][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:819][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:820][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:821][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:821][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:822][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:823][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:824][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:825][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:826][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:827][857]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 0
+[2018.10.03-22.54.27:827][857]LogLoad: Took 0.063560 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap)
+[2018.10.03-22.54.27:973][873]LogBlueprintUserMessages: [Coin_Pickup_C_1] MagnetNotActive
+[2018.10.03-22.54.28:074][885]LogBlueprintUserMessages: [Coin_Pickup_C_2] MagnetNotActive
+[2018.10.03-22.54.28:082][886]LogBlueprintUserMessages: [Coin_Pickup_C_0] MagnetNotActive
+[2018.10.03-22.54.28:677][957]LogBlueprintUserMessages: [FirstTIle_C_0] 15
+[2018.10.03-22.54.29:503][ 56]LogBlueprintUserMessages: [FirstTIle_C_1] 30
+[2018.10.03-22.54.30:318][153]LogBlueprintUserMessages: [FirstTIle_C_2] 45
+[2018.10.03-22.54.30:759][205]LogBlueprintUserMessages: [Magnet_Pickup_2] MagnetActive
+[2018.10.03-22.54.31:126][248]LogBlueprintUserMessages: [MasterTile_C_0] 60
+[2018.10.03-22.54.31:194][256]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Right
+[2018.10.03-22.54.31:927][343]LogBlueprintUserMessages: [MasterTile_C_1] 75
+[2018.10.03-22.54.32:719][437]LogBlueprintUserMessages: [MasterTile_C_2] 90
+[2018.10.03-22.54.33:503][531]LogBlueprintUserMessages: [MasterTile_C_3] 105
+[2018.10.03-22.54.34:288][625]LogBlueprintUserMessages: [MasterTile_C_4] 120
+[2018.10.03-22.54.35:057][717]LogBlueprintUserMessages: [MasterTile_C_5] 135
+[2018.10.03-22.54.35:816][808]LogBlueprintUserMessages: [MasterTile_C_6] 150
+[2018.10.03-22.54.36:572][898]LogBlueprintUserMessages: [MasterTile_C_7] 165
+[2018.10.03-22.54.37:319][987]LogBlueprintUserMessages: [MasterTile_C_8] 180
+[2018.10.03-22.54.38:057][ 75]LogBlueprintUserMessages: [MasterTile_C_9] 195
+[2018.10.03-22.54.38:791][163]LogBlueprintUserMessages: [MasterTile_C_10] 210
+[2018.10.03-22.54.39:514][249]LogBlueprintUserMessages: [MasterTile_C_11] 225
+[2018.10.03-22.54.40:234][335]LogBlueprintUserMessages: [MasterTile_C_12] 240
+[2018.10.03-22.54.40:750][397]LogBlueprintUserMessages: [Magnet_Pickup_2] magnetinactive
+[2018.10.03-22.54.40:750][397]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Magnet_Pickup_C /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstMap.FirstMap:PersistentLevel.Magnet_Pickup_2
+	Function /Game/RunnerFiles/Blueprints/Magnet_Pickup.Magnet_Pickup_C:ExecuteUbergraph_Magnet_Pickup:00E2
+[2018.10.03-22.54.40:750][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Magnet_Pickup Function:  Execute Ubergraph Magnet Pickup Graph:  EventGraph Node:  Deactivate Magnet
+[2018.10.03-22.54.40:750][397]LogBlueprintUserMessages: [Magnet_Pickup_2] Deactivated
+[2018.10.03-22.54.40:943][420]LogBlueprintUserMessages: [MasterTile_C_13] 255
+[2018.10.03-22.54.41:647][504]LogBlueprintUserMessages: [MasterTile_C_14] 270
+[2018.10.03-22.54.42:345][587]LogBlueprintUserMessages: [MasterTile_C_15] 285
+[2018.10.03-22.54.43:036][669]LogBlueprintUserMessages: [MasterTile_C_16] 300
+[2018.10.03-22.54.43:721][751]LogBlueprintUserMessages: [MasterTile_C_17] 315
+[2018.10.03-22.54.44:396][832]LogBlueprintUserMessages: [MasterTile_C_18] 330
+[2018.10.03-22.54.45:057][911]LogBlueprintUserMessages: [MasterTile_C_19] 345
+[2018.10.03-22.54.45:729][991]LogBlueprintUserMessages: [MasterTile_C_20] 360
+[2018.10.03-22.54.46:379][ 69]LogBlueprintUserMessages: [MasterTile_C_21] 375
+[2018.10.03-22.54.47:032][147]LogBlueprintUserMessages: [MasterTile_C_22] 390
+[2018.10.03-22.54.47:678][224]LogBlueprintUserMessages: [MasterTile_C_23] 405
+[2018.10.03-22.54.47:711][228]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Down
+[2018.10.03-22.54.48:314][300]LogBlueprintUserMessages: [MasterTile_C_24] 420
+[2018.10.03-22.54.48:455][317]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Left
+[2018.10.03-22.54.48:940][375]LogBlueprintUserMessages: [MasterTile_C_25] 435
+[2018.10.03-22.54.49:566][450]LogBlueprintUserMessages: [MasterTile_C_26] 450
+[2018.10.03-22.54.50:182][523]LogBlueprintUserMessages: [MasterTile_C_27] 465
+[2018.10.03-22.54.50:800][596]LogBlueprintUserMessages: [MasterTile_C_28] 480
+[2018.10.03-22.54.51:408][668]LogBlueprintUserMessages: [MasterTile_C_29] 495
+[2018.10.03-22.54.52:001][739]LogBlueprintUserMessages: [MasterTile_C_30] 510
+[2018.10.03-22.54.52:599][810]LogBlueprintUserMessages: [MasterTile_C_31] 525
+[2018.10.03-22.54.53:185][880]LogBlueprintUserMessages: [MasterTile_C_32] 540
+[2018.10.03-22.54.53:427][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.54.53:770][950]LogBlueprintUserMessages: [MasterTile_C_33] 555
+[2018.10.03-22.54.54:344][ 18]LogBlueprintUserMessages: [MasterTile_C_34] 570
+[2018.10.03-22.54.54:809][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.54.54:919][ 87]LogBlueprintUserMessages: [MasterTile_C_35] 585
+[2018.10.03-22.54.55:479][154]LogBlueprintUserMessages: [MasterTile_C_36] 600
+[2018.10.03-22.54.56:045][222]LogBlueprintUserMessages: [MasterTile_C_37] 615
+[2018.10.03-22.54.56:362][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.54.56:594][287]LogBlueprintUserMessages: [MasterTile_C_38] 630
+[2018.10.03-22.54.57:145][353]LogBlueprintUserMessages: [MasterTile_C_39] 645
+[2018.10.03-22.54.57:687][418]LogBlueprintUserMessages: [MasterTile_C_40] 660
+[2018.10.03-22.54.58:230][483]LogBlueprintUserMessages: [MasterTile_C_41] 675
+[2018.10.03-22.54.58:756][546]LogBlueprintUserMessages: [MasterTile_C_42] 690
+[2018.10.03-22.54.59:290][610]LogBlueprintUserMessages: [MasterTile_C_43] 705
+[2018.10.03-22.54.59:711][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Right
+[2018.10.03-22.54.59:806][671]LogBlueprintUserMessages: [MasterTile_C_44] 720
+[2018.10.03-22.55.00:324][732]LogBlueprintUserMessages: [MasterTile_C_45] 735
+[2018.10.03-22.55.00:839][793]LogBlueprintUserMessages: [MasterTile_C_46] 750
+[2018.10.03-22.55.01:341][853]LogBlueprintUserMessages: [MasterTile_C_47] 765
+[2018.10.03-22.55.01:849][909]LogBlueprintUserMessages: [MasterTile_C_48] 780
+[2018.10.03-22.55.02:341][968]LogBlueprintUserMessages: [MasterTile_C_49] 795
+[2018.10.03-22.55.02:837][ 27]LogBlueprintUserMessages: [MasterTile_C_50] 810
+[2018.10.03-22.55.03:325][ 85]LogBlueprintUserMessages: [MasterTile_C_51] 825
+[2018.10.03-22.55.03:801][142]LogBlueprintUserMessages: [MasterTile_C_52] 840
+[2018.10.03-22.55.04:277][199]LogBlueprintUserMessages: [MasterTile_C_53] 855
+[2018.10.03-22.55.04:751][255]LogBlueprintUserMessages: [MasterTile_C_54] 870
+[2018.10.03-22.55.05:219][311]LogBlueprintUserMessages: [MasterTile_C_55] 885
+[2018.10.03-22.55.05:685][366]LogBlueprintUserMessages: [MasterTile_C_56] 900
+[2018.10.03-22.55.06:143][420]LogBlueprintUserMessages: [MasterTile_C_57] 915
+[2018.10.03-22.55.06:602][470]LogBlueprintUserMessages: [MasterTile_C_58] 930
+[2018.10.03-22.55.07:052][523]LogBlueprintUserMessages: [MasterTile_C_59] 945
+[2018.10.03-22.55.07:496][576]LogBlueprintUserMessages: [MasterTile_C_60] 960
+[2018.10.03-22.55.07:935][628]LogBlueprintUserMessages: [MasterTile_C_61] 975
+[2018.10.03-22.55.08:371][680]LogBlueprintUserMessages: [MasterTile_C_62] 990
+[2018.10.03-22.55.08:804][732]LogBlueprintUserMessages: [MasterTile_C_63] 1005
+[2018.10.03-22.55.09:030][759]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Left
+[2018.10.03-22.55.09:232][783]LogBlueprintUserMessages: [MasterTile_C_64] 1020
+[2018.10.03-22.55.09:653][833]LogBlueprintUserMessages: [MasterTile_C_65] 1035
+[2018.10.03-22.55.10:072][883]LogBlueprintUserMessages: [MasterTile_C_66] 1050
+[2018.10.03-22.55.10:489][933]LogBlueprintUserMessages: [MasterTile_C_67] 1065
+[2018.10.03-22.55.10:899][980]LogBlueprintUserMessages: [MasterTile_C_68] 1080
+[2018.10.03-22.55.11:303][ 28]LogBlueprintUserMessages: [MasterTile_C_69] 1095
+[2018.10.03-22.55.11:707][ 76]LogBlueprintUserMessages: [MasterTile_C_70] 1110
+[2018.10.03-22.55.12:108][123]LogBlueprintUserMessages: [MasterTile_C_71] 1125
+[2018.10.03-22.55.12:507][170]LogBlueprintUserMessages: [MasterTile_C_72] 1140
+[2018.10.03-22.55.12:895][216]LogBlueprintUserMessages: [MasterTile_C_73] 1155
+[2018.10.03-22.55.13:282][262]LogBlueprintUserMessages: [MasterTile_C_74] 1170
+[2018.10.03-22.55.13:665][308]LogBlueprintUserMessages: [MasterTile_C_75] 1185
+[2018.10.03-22.55.14:050][354]LogBlueprintUserMessages: [MasterTile_C_76] 1200
+[2018.10.03-22.55.14:426][399]LogBlueprintUserMessages: [MasterTile_C_77] 1215
+[2018.10.03-22.55.14:792][442]LogBlueprintUserMessages: [MasterTile_C_78] 1230
+[2018.10.03-22.55.15:165][486]LogBlueprintUserMessages: [MasterTile_C_79] 1245
+[2018.10.03-22.55.15:527][529]LogBlueprintUserMessages: [MasterTile_C_80] 1260
+[2018.10.03-22.55.15:885][572]LogBlueprintUserMessages: [MasterTile_C_81] 1275
+[2018.10.03-22.55.16:246][615]LogBlueprintUserMessages: [MasterTile_C_82] 1290
+[2018.10.03-22.55.16:597][657]LogBlueprintUserMessages: [MasterTile_C_83] 1305
+[2018.10.03-22.55.16:951][699]LogBlueprintUserMessages: [MasterTile_C_84] 1320
+[2018.10.03-22.55.17:298][740]LogBlueprintUserMessages: [MasterTile_C_85] 1335
+[2018.10.03-22.55.17:645][781]LogBlueprintUserMessages: [MasterTile_C_86] 1350
+[2018.10.03-22.55.17:985][821]LogBlueprintUserMessages: [MasterTile_C_87] 1365
+[2018.10.03-22.55.18:034][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.55.18:320][861]LogBlueprintUserMessages: [MasterTile_C_88] 1380
+[2018.10.03-22.55.18:653][900]LogBlueprintUserMessages: [MasterTile_C_89] 1395
+[2018.10.03-22.55.18:986][939]LogBlueprintUserMessages: [MasterTile_C_90] 1410
+[2018.10.03-22.55.19:312][978]LogBlueprintUserMessages: [MasterTile_C_91] 1425
+[2018.10.03-22.55.19:635][ 16]LogBlueprintUserMessages: [MasterTile_C_92] 1440
+[2018.10.03-22.55.19:960][ 55]LogBlueprintUserMessages: [MasterTile_C_93] 1455
+[2018.10.03-22.55.20:278][ 93]LogBlueprintUserMessages: [MasterTile_C_94] 1470
+[2018.10.03-22.55.20:593][130]LogBlueprintUserMessages: [MasterTile_C_95] 1485
+[2018.10.03-22.55.20:898][166]LogBlueprintUserMessages: [MasterTile_C_96] 1500
+[2018.10.03-22.55.21:205][202]LogBlueprintUserMessages: [MasterTile_C_97] 1515
+[2018.10.03-22.55.21:515][238]LogBlueprintUserMessages: [MasterTile_C_98] 1530
+[2018.10.03-22.55.21:718][262]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.55.21:812][273]LogBlueprintUserMessages: [MasterTile_C_99] 1545
+[2018.10.03-22.55.22:112][308]LogBlueprintUserMessages: [MasterTile_C_100] 1560
+[2018.10.03-22.55.22:416][344]LogBlueprintUserMessages: [MasterTile_C_101] 1575
+[2018.10.03-22.55.22:708][378]LogBlueprintUserMessages: [MasterTile_C_102] 1590
+[2018.10.03-22.55.22:998][412]LogBlueprintUserMessages: [MasterTile_C_103] 1605
+[2018.10.03-22.55.23:286][446]LogBlueprintUserMessages: [MasterTile_C_104] 1620
+[2018.10.03-22.55.23:571][480]LogBlueprintUserMessages: [MasterTile_C_105] 1635
+[2018.10.03-22.55.23:848][513]LogBlueprintUserMessages: [MasterTile_C_106] 1650
+[2018.10.03-22.55.24:130][546]LogBlueprintUserMessages: [MasterTile_C_107] 1665
+[2018.10.03-22.55.24:406][579]LogBlueprintUserMessages: [MasterTile_C_108] 1680
+[2018.10.03-22.55.24:681][612]LogBlueprintUserMessages: [MasterTile_C_109] 1695
+[2018.10.03-22.55.24:951][644]LogBlueprintUserMessages: [MasterTile_C_110] 1710
+[2018.10.03-22.55.25:215][675]LogBlueprintUserMessages: [MasterTile_C_111] 1725
+[2018.10.03-22.55.25:483][707]LogBlueprintUserMessages: [MasterTile_C_112] 1740
+[2018.10.03-22.55.25:748][738]LogBlueprintUserMessages: [MasterTile_C_113] 1755
+[2018.10.03-22.55.26:007][769]LogBlueprintUserMessages: [MasterTile_C_114] 1770
+[2018.10.03-22.55.26:208][793]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] up
+[2018.10.03-22.55.26:269][800]LogBlueprintUserMessages: [MasterTile_C_115] 1785
+[2018.10.03-22.55.26:516][829]LogBlueprintUserMessages: [MasterTile_C_116] 1800
+[2018.10.03-22.55.26:775][860]LogBlueprintUserMessages: [MasterTile_C_117] 1815
+[2018.10.03-22.55.27:022][889]LogBlueprintUserMessages: [MasterTile_C_118] 1830
+[2018.10.03-22.55.27:267][918]LogBlueprintUserMessages: [MasterTile_C_119] 1845
+[2018.10.03-22.55.27:513][947]LogBlueprintUserMessages: [MasterTile_C_120] 1860
+[2018.10.03-22.55.27:758][976]LogBlueprintUserMessages: [MasterTile_C_121] 1875
+[2018.10.03-22.55.28:003][  5]LogBlueprintUserMessages: [MasterTile_C_122] 1890
+[2018.10.03-22.55.28:235][ 33]LogBlueprintUserMessages: [MasterTile_C_123] 1905
+[2018.10.03-22.55.28:473][ 61]LogBlueprintUserMessages: [MasterTile_C_124] 1920
+[2018.10.03-22.55.28:709][ 89]LogBlueprintUserMessages: [MasterTile_C_125] 1935
+[2018.10.03-22.55.28:936][116]LogBlueprintUserMessages: [MasterTile_C_126] 1950
+[2018.10.03-22.55.29:161][143]LogBlueprintUserMessages: [MasterTile_C_127] 1965
+[2018.10.03-22.55.29:395][170]LogBlueprintUserMessages: [MasterTile_C_128] 1980
+[2018.10.03-22.55.29:617][196]LogBlueprintUserMessages: [MasterTile_C_129] 1995
+[2018.10.03-22.55.29:835][222]LogBlueprintUserMessages: [MasterTile_C_130] 2010
+[2018.10.03-22.55.30:059][249]LogBlueprintUserMessages: [MasterTile_C_131] 2025
+[2018.10.03-22.55.30:152][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Left
+[2018.10.03-22.55.30:279][275]LogBlueprintUserMessages: [MasterTile_C_132] 2040
+[2018.10.03-22.55.30:487][300]LogBlueprintUserMessages: [MasterTile_C_133] 2055
+[2018.10.03-22.55.30:575][310]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Right
+[2018.10.03-22.58.29:939][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-22.58.31:700][583]LogSlate: Window 'Magnet_Pickup' being destroyed
+[2018.10.03-22.58.31:704][583]LogSlate: Window 'Magnet_Pickup' being destroyed
+[2018.10.03-22.58.32:805][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap'
+[2018.10.03-22.58.32:805][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-22.58.32:842][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.03-22.58.32:843][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstMap.FirstMap:PersistentLevel.FirstMap'
+[2018.10.03-22.58.32:874][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-22.58.32:914][707]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.03-22.58.38:891][119]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.03-22.58.56:583][190]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/BirdAI.BirdAI
+[2018.10.03-22.59.24:472][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-22.59.41:706][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-22.59.41:807][336]Cmd: MODE ROTGRID=1
+[2018.10.03-22.59.43:812][525]LogEditorTransaction: Undo Modify Component(s)
+[2018.10.03-22.59.54:023][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.00.04:782][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.00.15:852][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.00.15:987][421]BlueprintLog: New page: Compile BirdAI
+[2018.10.03-23.02.23:619][ 68]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.03-23.02.36:189][422]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/BirdAIPickup.BirdAIPickup
+[2018.10.03-23.02.39:905][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-23.03.03:096][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-23.03.06:354][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-23.03.19:794][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.03.19:950][351]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/Jump_Powerup.Jump_Powerup
+[2018.10.03-23.03.30:381][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.03.36:674][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.03.36:795][852]BlueprintLog: New page: Compile BirdAIPickup
+[2018.10.03-23.04.08:374][362]LogMaterial: Warning: Material /Game/RunnerFiles/Meshes/Magnet/aiStandardSurface2.aiStandardSurface2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.03-23.04.08:376][362]LogMaterial: Display: Missing cached shader map for material aiStandardSurface2, compiling. 
+[2018.10.03-23.04.08:706][362]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.03-23.04.08:706][362]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.03-23.04.08:706][362]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.03-23.04.14:050][722]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.03-23.04.16:091][861]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.03-23.04.19:113][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.04.22:147][255]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.03-23.04.23:577][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.04.26:869][545]LogMaterial: Warning: Material /Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3.aiStandardSurface3 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.03-23.04.26:871][545]LogMaterial: Display: Missing cached shader map for material aiStandardSurface3, compiling. 
+[2018.10.03-23.04.26:915][545]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.03-23.04.26:915][545]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.03-23.04.33:097][924]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.03-23.04.36:309][137]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.03-23.04.40:074][394]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.03-23.04.40:088][395]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.03-23.04.46:151][784]LogEditorTransaction: Undo Replace component used material
+[2018.10.03-23.04.55:639][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.04.55:764][619]LogSlate: Window 'Jump_Powerup' being destroyed
+[2018.10.03-23.04.55:766][619]LogSlate: Window 'Jump_Powerup' being destroyed
+[2018.10.03-23.04.55:841][619]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.03-23.04.55:907][619]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.03-23.05.00:155][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FirstMap" FILE="../../../../../../Github/CRANE/FlaminGo/Content/ThirdPersonBP/Maps/FirstMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.03-23.05.00:387][ 85]LogSavePackage: Moving '../../../../../../Github/CRANE/FlaminGo/Saved/FirstMap80BE96824535E1CE1AA40895781CB1D1.tmp' to '../../../../../../Github/CRANE/FlaminGo/Content/ThirdPersonBP/Maps/FirstMap.umap'
+[2018.10.03-23.05.00:412][ 85]LogFileHelpers: Saving map 'FirstMap' took 0.341
+[2018.10.03-23.05.00:433][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Meshes/Magnet/aiStandardSurface2" FILE="../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Magnet/aiStandardSurface2.uasset" SILENT=true
+[2018.10.03-23.05.00:467][ 85]LogSavePackage: Moving '../../../../../../Github/CRANE/FlaminGo/Saved/aiStandardSurface2E5E1FFAE47CF6C37BA27ED88EE8CC2F4.tmp' to '../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Magnet/aiStandardSurface2.uasset'
+[2018.10.03-23.05.00:487][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/BirdAI" FILE="../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/BirdAI.uasset" SILENT=true
+[2018.10.03-23.05.00:506][ 85]LogSavePackage: Moving '../../../../../../Github/CRANE/FlaminGo/Saved/BirdAI6A3C07C44042C087A7027FAE3D7CAD62.tmp' to '../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/BirdAI.uasset'
+[2018.10.03-23.05.00:525][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/BirdAIPickup" FILE="../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/BirdAIPickup.uasset" SILENT=true
+[2018.10.03-23.05.00:544][ 85]LogSavePackage: Moving '../../../../../../Github/CRANE/FlaminGo/Saved/BirdAIPickupE1EEA4AA43BF6C38666045BA1F07E0EA.tmp' to '../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/BirdAIPickup.uasset'
+[2018.10.03-23.05.44:761][387]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/BirdAI.BirdAI
+[2018.10.03-23.05.53:682][305]LogSlate: Window 'BirdAI' being destroyed
+[2018.10.03-23.05.53:686][305]LogSlate: Window 'BirdAI' being destroyed
+[2018.10.03-23.05.54:887][438]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/BirdAIPickup.BirdAIPickup
+[2018.10.03-23.05.56:038][512]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/BirdAI.BirdAI
+[2018.10.03-23.06.00:111][885]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/BirdAI.BirdAI
+[2018.10.03-23.06.06:686][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-23.06.08:514][586]LogMaterial: Warning: Material /Game/RunnerFiles/Meshes/Boots/Boot_Belt.Boot_Belt needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.03-23.06.08:516][586]LogMaterial: Display: Missing cached shader map for material Boot_Belt, compiling. 
+[2018.10.03-23.06.08:557][586]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.03-23.06.08:557][586]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.03-23.06.08:557][586]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.03-23.06.11:685][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-23.06.14:772][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-23.06.14:851][  8]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.03-23.06.14:890][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/BirdAI" FILE="../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/BirdAI.uasset" SILENT=true
+[2018.10.03-23.06.14:924][ 10]LogSavePackage: Moving '../../../../../../Github/CRANE/FlaminGo/Saved/BirdAI0D1E3DCE4F98CFD78C807A8815D90D8E.tmp' to '../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/BirdAI.uasset'
+[2018.10.03-23.06.16:257][112]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.03-23.06.21:486][598]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.03-23.06.24:472][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Meshes/Boots/Boot_Belt" FILE="../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Boots/Boot_Belt.uasset" SILENT=true
+[2018.10.03-23.06.24:497][809]LogSavePackage: Moving '../../../../../../Github/CRANE/FlaminGo/Saved/Boot_Belt3FE37DEB4EA98CA93DA0DC8BC51A633C.tmp' to '../../../../../../Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Boots/Boot_Belt.uasset'
