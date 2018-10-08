@@ -456,3 +456,2039 @@ LogInit: Object subsystem initialized
 [2018.10.08-16.03.12:297][577]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Flamingo_Jumping_FINAL_SkeletonA868FFA74C78064E2FEED2B8AD9778F6.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL_Skeleton.uasset'
 [2018.10.08-16.03.12:329][577]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Flamingo_Jumping_FINAL_PhysicsAs1C1879D7438DA7CD4DF883BDB58A184E.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL_PhysicsAsset.uasset'
 [2018.10.08-16.03.12:359][577]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Flamingo_Jumping_FINAL_Anim46A0EE494F2EED0D7184E2B9D697B742.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL_Anim.uasset'
+[2018.10.08-16.06.40:260][695]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Throw.fbx)
+[2018.10.08-16.06.40:285][695]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Throw.fbx
+[2018.10.08-16.06.40:351][695]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.07.14:725][695]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node START [vanguard_visor] 
+[2018.10.08-16.07.14:746][695]LogFbx: 	Total Deformer Count 532709680.
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node 1] Skin vanguard_visor (Type Skin).
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: 	Attribute (vanguard_visor) Type (4).
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node Attribute Child 1] vanguard_visor (Type Mesh).
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node END [vanguard_visor]
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node START [vanguard_Mesh] 
+[2018.10.08-16.07.14:746][695]LogFbx: 	Total Deformer Count 532709680.
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: 	Attribute (vanguard_Mesh) Type (4).
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node Attribute Child 1] vanguard_Mesh (Type Mesh).
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node END [vanguard_Mesh]
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node START [vanguard_visor] 
+[2018.10.08-16.07.14:746][695]LogFbx: 	Total Deformer Count 532709680.
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node 1] Skin vanguard_visor (Type Skin).
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: 	Attribute (vanguard_visor) Type (4).
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node Attribute Child 1] vanguard_visor (Type Mesh).
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node END [vanguard_visor]
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node START [vanguard_Mesh] 
+[2018.10.08-16.07.14:746][695]LogFbx: 	Total Deformer Count 532709680.
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.10.08-16.07.14:746][695]LogFbx: =================================================
+[2018.10.08-16.07.14:746][695]LogFbx: 	Attribute (vanguard_Mesh) Type (4).
+[2018.10.08-16.07.14:746][695]LogFbx: 		[Node Attribute Child 1] vanguard_Mesh (Type Mesh).
+[2018.10.08-16.07.14:746][695]LogFbx: Dumping Node END [vanguard_Mesh]
+[2018.10.08-16.07.14:747][695]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node vanguard_visor : The relative matrices do not match
+[2018.10.08-16.07.14:747][695]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node vanguard_Mesh : The relative matrices do not match
+[2018.10.08-16.07.14:748][695]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node vanguard_visor : The relative matrices do not match
+[2018.10.08-16.07.14:748][695]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node vanguard_Mesh : The relative matrices do not match
+[2018.10.08-16.07.14:748][695]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.10.08-16.07.14:749][695]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - vanguard_visor
+[2018.10.08-16.07.14:749][695]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.10.08-16.07.14:751][695]LogMaterial: Warning: Material /Game/RunnerFiles/Blueprints/Crocodile/Vanguard_VisorMat.Vanguard_VisorMat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.08-16.07.14:753][695]LogMaterial: Display: Missing cached shader map for material Vanguard_VisorMat, compiling. 
+[2018.10.08-16.07.14:781][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/vanguard_diffuse'
+[2018.10.08-16.07.14:781][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/vanguard_diffuse'
+[2018.10.08-16.07.14:815][695]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.08-16.07.14:815][695]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.08-16.07.14:815][695]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.08-16.07.14:815][695]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.08-16.07.14:819][695]LogTexture: Display: Building textures: vanguard_diffuse (AutoDXT, 1024X1024)
+[2018.10.08-16.07.15:203][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/vanguard_specular'
+[2018.10.08-16.07.15:204][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/vanguard_specular'
+[2018.10.08-16.07.15:248][695]LogTexture: Display: Building textures: vanguard_specular (AutoDXT, 1024X1024)
+[2018.10.08-16.07.15:721][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/vanguard_normal'
+[2018.10.08-16.07.15:721][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/vanguard_normal'
+[2018.10.08-16.07.15:769][695]LogTexture: Display: Building textures: vanguard_normal (BC5, 1024X1024)
+[2018.10.08-16.07.15:837][695]LogMaterial: Display: Missing cached shader map for material Vanguard_VisorMat, compiling. 
+[2018.10.08-16.07.15:868][695]LogFbx: Triangulating skeletal mesh vanguard_visor
+[2018.10.08-16.07.15:878][695]LogMaterial: Warning: Material /Game/RunnerFiles/Blueprints/Crocodile/VanguardBodyMat.VanguardBodyMat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.08-16.07.15:880][695]LogMaterial: Display: Missing cached shader map for material VanguardBodyMat, compiling. 
+[2018.10.08-16.07.15:960][695]LogTexture: Display: Building textures: vanguard_diffuse (AutoDXT, 1024X1024)
+[2018.10.08-16.07.16:411][695]LogTexture: Display: Building textures: vanguard_specular (AutoDXT, 1024X1024)
+[2018.10.08-16.07.16:878][695]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for vanguard_normal
+[2018.10.08-16.07.16:927][695]LogTexture: Display: Building textures: vanguard_normal (BC5, 1024X1024)
+[2018.10.08-16.07.16:986][695]LogMaterial: Display: Missing cached shader map for material VanguardBodyMat, compiling. 
+[2018.10.08-16.07.17:020][695]LogFbx: Triangulating skeletal mesh vanguard_Mesh
+[2018.10.08-16.07.17:239][695]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.10.08-16.07.17:504][695]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.10.08-16.07.17:552][695]LogSkeletalMesh: Section 0: 109 vertices, 2 active bones
+[2018.10.08-16.07.17:554][695]LogSkeletalMesh: Section 1: 7454 vertices, 49 active bones
+[2018.10.08-16.07.17:555][695]LogSkeletalMesh: Section 0: Material=0, 190 triangles
+[2018.10.08-16.07.17:555][695]LogSkeletalMesh: Section 1: Material=1, 11186 triangles
+[2018.10.08-16.07.17:555][695]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.17:574][695]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.07.17:584][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton'
+[2018.10.08-16.07.17:584][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton'
+[2018.10.08-16.07.17:588][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset'
+[2018.10.08-16.07.17:589][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset'
+[2018.10.08-16.07.17:597][695]LogFbx: =================================================
+[2018.10.08-16.07.17:597][695]LogFbx: Dumping Node START [vanguard_visor] 
+[2018.10.08-16.07.17:597][695]LogFbx: 	Total Deformer Count -1381369728.
+[2018.10.08-16.07.17:597][695]LogFbx: 		[Node 1] Skin vanguard_visor (Type Skin).
+[2018.10.08-16.07.17:597][695]LogFbx: =================================================
+[2018.10.08-16.07.17:597][695]LogFbx: 	Attribute (vanguard_visor) Type (4).
+[2018.10.08-16.07.17:597][695]LogFbx: 		[Node Attribute Child 1] vanguard_visor (Type Mesh).
+[2018.10.08-16.07.17:597][695]LogFbx: Dumping Node END [vanguard_visor]
+[2018.10.08-16.07.17:597][695]LogFbx: =================================================
+[2018.10.08-16.07.17:597][695]LogFbx: Dumping Node START [vanguard_Mesh] 
+[2018.10.08-16.07.17:597][695]LogFbx: 	Total Deformer Count -1381369728.
+[2018.10.08-16.07.17:597][695]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.10.08-16.07.17:597][695]LogFbx: =================================================
+[2018.10.08-16.07.17:597][695]LogFbx: 	Attribute (vanguard_Mesh) Type (4).
+[2018.10.08-16.07.17:598][695]LogFbx: 		[Node Attribute Child 1] vanguard_Mesh (Type Mesh).
+[2018.10.08-16.07.17:598][695]LogFbx: Dumping Node END [vanguard_Mesh]
+[2018.10.08-16.07.17:598][695]LogFbx: =================================================
+[2018.10.08-16.07.17:598][695]LogFbx: Dumping Node START [vanguard_visor] 
+[2018.10.08-16.07.17:598][695]LogFbx: 	Total Deformer Count -1381369728.
+[2018.10.08-16.07.17:598][695]LogFbx: 		[Node 1] Skin vanguard_visor (Type Skin).
+[2018.10.08-16.07.17:598][695]LogFbx: =================================================
+[2018.10.08-16.07.17:598][695]LogFbx: 	Attribute (vanguard_visor) Type (4).
+[2018.10.08-16.07.17:598][695]LogFbx: 		[Node Attribute Child 1] vanguard_visor (Type Mesh).
+[2018.10.08-16.07.17:598][695]LogFbx: Dumping Node END [vanguard_visor]
+[2018.10.08-16.07.17:598][695]LogFbx: =================================================
+[2018.10.08-16.07.17:598][695]LogFbx: Dumping Node START [vanguard_Mesh] 
+[2018.10.08-16.07.17:598][695]LogFbx: 	Total Deformer Count -1381369728.
+[2018.10.08-16.07.17:598][695]LogFbx: 		[Node 1]  1 (Type Skin).
+[2018.10.08-16.07.17:598][695]LogFbx: =================================================
+[2018.10.08-16.07.17:598][695]LogFbx: 	Attribute (vanguard_Mesh) Type (4).
+[2018.10.08-16.07.17:598][695]LogFbx: 		[Node Attribute Child 1] vanguard_Mesh (Type Mesh).
+[2018.10.08-16.07.17:598][695]LogFbx: Dumping Node END [vanguard_Mesh]
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(31) RightShoulder
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(32) RightArm
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(33) RightForeArm
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(34) RightHand
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.10.08-16.07.17:600][695]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(56) LeftLeg
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(57) LeftFoot
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(61) RightLeg
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(62) RightFoot
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(63) RightToeBase
+[2018.10.08-16.07.17:601][695]LogFbx: SortedLinks :(64) RightToe_End
+[2018.10.08-16.07.17:602][695]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.07.17:605][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim'
+[2018.10.08-16.07.17:605][695]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim'
+[2018.10.08-16.07.17:900][695]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.10.08-16.07.18:048][695]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim.Throw_Anim
+[2018.10.08-16.07.18:048][695]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Throw_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.07.18:055][695]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.18:072][695]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.07.18:087][695]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.08-16.07.18:094][695]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.18:111][695]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.07.18:722][753]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.08-16.07.19:239][808]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.08-16.07.19:310][815]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.08-16.07.20:900][987]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.08-16.07.21:012][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.08-16.07.21:405][ 45]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.08-16.07.22:161][133]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.08-16.07.22:716][197]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.08-16.07.23:622][302]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.08-16.07.24:255][373]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.08-16.07.24:802][438]LogSlate: Window 'Message Log' being destroyed
+[2018.10.08-16.07.24:806][438]LogSlate: Window 'Message Log' being destroyed
+[2018.10.08-16.07.32:593][366]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim.Throw_Anim
+[2018.10.08-16.07.32:599][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.08-16.07.32:623][366]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.08-16.07.32:889][366]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.08-16.07.34:256][509]LogSlate: Window 'Throw_Anim*' being destroyed
+[2018.10.08-16.07.34:258][509]LogSlate: Window 'Throw_Anim*' being destroyed
+[2018.10.08-16.07.52:006][ 40]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.08-16.07.52:376][ 40]LogMaterial: Display: Missing cached shader map for material VanguardBodyMat, compiling. 
+[2018.10.08-16.07.52:386][ 40]LogMaterial: Warning: /Game/RunnerFiles/Blueprints/Crocodile/VanguardBodyMat.VanguardBodyMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.08-16.07.52:386][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.08-16.07.52:388][ 40]LogMaterial: Display: Missing cached shader map for material VanguardBodyMat, compiling. 
+[2018.10.08-16.07.52:388][ 40]LogMaterial: Warning: /Game/RunnerFiles/Blueprints/Crocodile/VanguardBodyMat.VanguardBodyMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.08-16.07.52:388][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.08-16.07.52:390][ 40]LogMaterial: Display: Missing cached shader map for material VanguardBodyMat, compiling. 
+[2018.10.08-16.07.52:390][ 40]LogMaterial: Warning: /Game/RunnerFiles/Blueprints/Crocodile/VanguardBodyMat.VanguardBodyMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.08-16.07.52:390][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.08-16.07.52:392][ 40]LogMaterial: Display: Missing cached shader map for material Vanguard_VisorMat, compiling. 
+[2018.10.08-16.07.52:392][ 40]LogMaterial: Warning: /Game/RunnerFiles/Blueprints/Crocodile/Vanguard_VisorMat.Vanguard_VisorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.08-16.07.52:393][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.08-16.07.52:394][ 40]LogMaterial: Display: Missing cached shader map for material Vanguard_VisorMat, compiling. 
+[2018.10.08-16.07.52:395][ 40]LogMaterial: Warning: /Game/RunnerFiles/Blueprints/Crocodile/Vanguard_VisorMat.Vanguard_VisorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.08-16.07.52:395][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.08-16.07.52:396][ 40]LogMaterial: Display: Missing cached shader map for material Vanguard_VisorMat, compiling. 
+[2018.10.08-16.07.52:397][ 40]LogMaterial: Warning: /Game/RunnerFiles/Blueprints/Crocodile/Vanguard_VisorMat.Vanguard_VisorMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.08-16.07.52:397][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.08-16.07.52:397][ 40]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.52:408][ 40]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.07.52:417][ 40]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.52:427][ 40]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.07.52:436][ 40]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.52:445][ 40]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.07.52:454][ 40]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.07.52:463][ 40]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.08.51:370][ 76]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/Throw.fbx)
+[2018.10.08-16.08.51:383][ 76]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/Throw.fbx
+[2018.10.08-16.08.51:418][ 76]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.08.54:575][ 76]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node START [default] 
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Total Deformer Count 743659344.
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node END [default]
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node START [Croc_Combined] 
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Total Deformer Count -1381380448.
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Attribute (Croc_Combinedmesh) Type (4).
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node Attribute Child 1] Croc_Combined (Type Mesh).
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node END [Croc_Combined]
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node START [default] 
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Total Deformer Count 743660072.
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node END [default]
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node START [Croc_Combined] 
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Total Deformer Count -1381374368.
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.54:595][ 76]LogFbx: =================================================
+[2018.10.08-16.08.54:595][ 76]LogFbx: 	Attribute (Croc_Combinedmesh) Type (4).
+[2018.10.08-16.08.54:595][ 76]LogFbx: 		[Node Attribute Child 1] Croc_Combined (Type Mesh).
+[2018.10.08-16.08.54:595][ 76]LogFbx: Dumping Node END [Croc_Combined]
+[2018.10.08-16.08.54:596][ 76]LogFbx: Valid bind pose for Pose (BindPose) - Croc_Combined
+[2018.10.08-16.08.54:598][ 76]LogFbx: Triangulating skeletal mesh Croc_Combined
+[2018.10.08-16.08.55:027][ 76]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2018.10.08-16.08.55:425][ 76]LogSkeletalMesh: Section 0: 16302 vertices, 46 active bones
+[2018.10.08-16.08.55:428][ 76]LogSkeletalMesh: Section 0: Material=0, 23206 triangles
+[2018.10.08-16.08.55:428][ 76]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.08.56:151][ 76]LogSkeletalMesh: Built Skeletal Mesh [0.72s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node START [default] 
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Total Deformer Count 743659792.
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node END [default]
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node START [Croc_Combined] 
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Total Deformer Count -1381381568.
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Attribute (Croc_Combinedmesh) Type (4).
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node Attribute Child 1] Croc_Combined (Type Mesh).
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node END [Croc_Combined]
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node START [default] 
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Total Deformer Count 743662928.
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node END [default]
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: Dumping Node START [Croc_Combined] 
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Total Deformer Count -1381373888.
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.08-16.08.56:163][ 76]LogFbx: =================================================
+[2018.10.08-16.08.56:163][ 76]LogFbx: 	Attribute (Croc_Combinedmesh) Type (4).
+[2018.10.08-16.08.56:163][ 76]LogFbx: 		[Node Attribute Child 1] Croc_Combined (Type Mesh).
+[2018.10.08-16.08.56:164][ 76]LogFbx: Dumping Node END [Croc_Combined]
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.08.56:164][ 76]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.08.56:165][ 76]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.08.56:165][ 76]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.08.56:204][ 76]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim.Throw_Anim
+[2018.10.08-16.08.56:204][ 76]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Throw_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.08.56:205][ 76]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.08.56:932][ 76]LogSkeletalMesh: Built Skeletal Mesh [0.73s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.08.56:941][ 76]FBXImport: Warning: Ignoring mesh default because it but no weights. 
+[2018.10.08-16.08.56:941][ 76]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.08-16.08.56:941][ 76]FBXImport: Warning: Ignoring mesh default because it but no weights. 
+[2018.10.08-16.08.56:948][ 76]LogSkeletalMesh: Building Skeletal Mesh Throw...
+[2018.10.08-16.08.57:673][ 76]LogSkeletalMesh: Built Skeletal Mesh [0.73s] /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw
+[2018.10.08-16.09.00:731][432]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/FirstMap' took 0.018
+[2018.10.08-16.09.00:733][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiles/Blueprints/Crocodile/Throw] ([1] browsable assets)...
+[2018.10.08-16.09.00:742][432]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/RunnerFiles/Blueprints/Crocodile/Throw.Throw]
+[2018.10.08-16.09.00:742][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Blueprints/Crocodile/Throw]
+[2018.10.08-16.09.00:775][432]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_Auto12CEA45F643D021058376EA92AE58DE3E.tmp' to 'D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Blueprints/Crocodile/Throw_Auto1.uasset'
+[2018.10.08-16.09.00:777][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton] ([1] browsable assets)...
+[2018.10.08-16.09.00:777][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton]
+[2018.10.08-16.09.00:783][432]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_Skeleton_Auto134899BFA45EC215E4D18B2A6A66C777B.tmp' to 'D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton_Auto1.uasset'
+[2018.10.08-16.09.00:786][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset] ([1] browsable assets)...
+[2018.10.08-16.09.00:795][432]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset.Throw_PhysicsAsset]
+[2018.10.08-16.09.00:795][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset]
+[2018.10.08-16.09.00:806][432]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_PhysicsAsset_Auto11822B74941DF7E8913228A816C48057E.tmp' to 'D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset_Auto1.uasset'
+[2018.10.08-16.09.00:809][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim] ([1] browsable assets)...
+[2018.10.08-16.09.00:819][432]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim.Throw_Anim]
+[2018.10.08-16.09.00:819][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim]
+[2018.10.08-16.09.00:834][432]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_Anim_Auto17BBF4CE84FE647F54A1BA9B3D2A501B9.tmp' to 'D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim_Auto1.uasset'
+[2018.10.08-16.09.00:836][432]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.10.08-16.09.02:780][664]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim.Throw_Anim
+[2018.10.08-16.09.02:785][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.08-16.09.02:817][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.08-16.09.03:082][664]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.08-16.09.24:533][635]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/jump attack.fbx)
+[2018.10.08-16.09.24:545][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/jump attack.fbx
+[2018.10.08-16.09.24:564][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.29:568][635]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.29:587][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.29:589][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.29:591][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/jump_attack'
+[2018.10.08-16.09.29:591][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/jump_attack'
+[2018.10.08-16.09.37:078][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/jump_attack.jump_attack
+[2018.10.08-16.09.37:083][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.jump_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.37:156][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/left turn 45.fbx)
+[2018.10.08-16.09.45:026][635]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.08-16.09.45:066][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/left turn 45.fbx
+[2018.10.08-16.09.45:087][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.45:088][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.45:089][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.45:090][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.45:091][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/left_turn_45'
+[2018.10.08-16.09.45:091][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/left_turn_45'
+[2018.10.08-16.09.45:242][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/left_turn_45.left_turn_45
+[2018.10.08-16.09.45:242][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.left_turn_45) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.45:256][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant breathing idle.fbx)
+[2018.10.08-16.09.45:266][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant breathing idle.fbx
+[2018.10.08-16.09.45:284][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.45:285][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.45:286][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.45:287][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.45:288][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_breathing_idle'
+[2018.10.08-16.09.45:288][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_breathing_idle'
+[2018.10.08-16.09.45:657][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_breathing_idle.mutant_breathing_idle
+[2018.10.08-16.09.45:657][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_breathing_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.45:673][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant dying.fbx)
+[2018.10.08-16.09.45:685][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant dying.fbx
+[2018.10.08-16.09.45:704][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.45:707][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.45:708][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.45:710][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_dying'
+[2018.10.08-16.09.45:710][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_dying'
+[2018.10.08-16.09.46:139][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_dying.mutant_dying
+[2018.10.08-16.09.46:139][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_dying) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.46:157][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant flexing muscles.fbx)
+[2018.10.08-16.09.46:166][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant flexing muscles.fbx
+[2018.10.08-16.09.46:188][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.46:190][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.46:191][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.46:192][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.46:195][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_flexing_muscles'
+[2018.10.08-16.09.46:195][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_flexing_muscles'
+[2018.10.08-16.09.46:625][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_flexing_muscles.mutant_flexing_muscles
+[2018.10.08-16.09.46:626][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_flexing_muscles) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.46:643][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant idle (2).fbx)
+[2018.10.08-16.09.46:652][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant idle (2).fbx
+[2018.10.08-16.09.46:674][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.46:675][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.46:676][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.46:677][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.46:678][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle__2_'
+[2018.10.08-16.09.46:679][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle__2_'
+[2018.10.08-16.09.47:161][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle__2_.mutant_idle__2_
+[2018.10.08-16.09.47:161][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_idle__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.47:180][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant idle.fbx)
+[2018.10.08-16.09.47:190][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant idle.fbx
+[2018.10.08-16.09.47:216][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.47:218][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.47:221][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.47:225][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle'
+[2018.10.08-16.09.47:225][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle'
+[2018.10.08-16.09.48:423][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle.mutant_idle
+[2018.10.08-16.09.48:424][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.09.48:452][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant jump attack.fbx)
+[2018.10.08-16.09.48:463][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant jump attack.fbx
+[2018.10.08-16.09.48:483][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.09.48:485][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.09.48:486][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.09.48:487][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.09.48:490][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jump_attack'
+[2018.10.08-16.09.48:490][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jump_attack'
+[2018.10.08-16.10.08:423][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jump_attack.mutant_jump_attack
+[2018.10.08-16.10.08:439][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_jump_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.08:617][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant jumping (2).fbx)
+[2018.10.08-16.10.08:629][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant jumping (2).fbx
+[2018.10.08-16.10.08:645][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.08:647][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.08:648][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.08:648][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.08:650][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping__2_'
+[2018.10.08-16.10.08:650][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping__2_'
+[2018.10.08-16.10.08:764][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping__2_.mutant_jumping__2_
+[2018.10.08-16.10.08:764][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_jumping__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.08:780][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant jumping.fbx)
+[2018.10.08-16.10.08:791][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant jumping.fbx
+[2018.10.08-16.10.08:808][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.08:810][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.08:811][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.08:813][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping'
+[2018.10.08-16.10.08:813][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping'
+[2018.10.08-16.10.09:122][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping.mutant_jumping
+[2018.10.08-16.10.09:122][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_jumping) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.09:137][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant left turn 45.fbx)
+[2018.10.08-16.10.09:147][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant left turn 45.fbx
+[2018.10.08-16.10.09:164][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.09:166][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.09:167][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.09:167][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.09:169][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_left_turn_45'
+[2018.10.08-16.10.09:169][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_left_turn_45'
+[2018.10.08-16.10.09:331][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_left_turn_45.mutant_left_turn_45
+[2018.10.08-16.10.09:331][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_left_turn_45) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.09:347][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant punch.fbx)
+[2018.10.08-16.10.09:356][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant punch.fbx
+[2018.10.08-16.10.09:374][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.09:376][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.09:377][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.09:378][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_punch'
+[2018.10.08-16.10.09:378][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_punch'
+[2018.10.08-16.10.09:507][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_punch.mutant_punch
+[2018.10.08-16.10.09:507][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_punch) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.09:521][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant right turn 45 (2).fbx)
+[2018.10.08-16.10.09:530][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant right turn 45 (2).fbx
+[2018.10.08-16.10.09:547][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.09:549][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.09:550][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.09:550][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.09:552][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45__2_'
+[2018.10.08-16.10.09:552][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45__2_'
+[2018.10.08-16.10.09:706][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45__2_.mutant_right_turn_45__2_
+[2018.10.08-16.10.09:707][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_right_turn_45__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.09:721][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant right turn 45.fbx)
+[2018.10.08-16.10.09:731][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant right turn 45.fbx
+[2018.10.08-16.10.09:749][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.09:750][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.09:750][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.09:750][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.09:750][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.09:750][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.09:750][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.09:751][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.09:752][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.09:753][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45'
+[2018.10.08-16.10.09:753][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45'
+[2018.10.08-16.10.09:956][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45.mutant_right_turn_45
+[2018.10.08-16.10.09:956][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_right_turn_45) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.09:972][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant right turn 90.fbx)
+[2018.10.08-16.10.09:984][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant right turn 90.fbx
+[2018.10.08-16.10.10:004][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.10:007][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.10:008][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.10:008][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.10:011][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_90'
+[2018.10.08-16.10.10:011][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_90'
+[2018.10.08-16.10.10:251][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_90.mutant_right_turn_90
+[2018.10.08-16.10.10:251][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_right_turn_90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.10:267][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant roaring.fbx)
+[2018.10.08-16.10.10:277][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant roaring.fbx
+[2018.10.08-16.10.10:296][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.10:298][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.10:300][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.10:302][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_roaring'
+[2018.10.08-16.10.10:302][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_roaring'
+[2018.10.08-16.10.10:777][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_roaring.mutant_roaring
+[2018.10.08-16.10.10:778][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_roaring) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.10:797][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant run.fbx)
+[2018.10.08-16.10.10:807][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant run.fbx
+[2018.10.08-16.10.10:826][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.10:828][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.10:829][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.10:829][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.10:831][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_run'
+[2018.10.08-16.10.10:831][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_run'
+[2018.10.08-16.10.10:939][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_run.mutant_run
+[2018.10.08-16.10.10:940][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.10:954][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant swiping.fbx)
+[2018.10.08-16.10.10:965][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant swiping.fbx
+[2018.10.08-16.10.10:982][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.10:984][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.10:985][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.10:986][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.10:987][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_swiping'
+[2018.10.08-16.10.10:987][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_swiping'
+[2018.10.08-16.10.11:238][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_swiping.mutant_swiping
+[2018.10.08-16.10.11:238][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_swiping) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.11:254][635]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant walking.fbx)
+[2018.10.08-16.10.11:263][635]LogFbx: Loading FBX Scene from ../../../../../../Users/k1520501/Downloads/Creature Pack/mutant walking.fbx
+[2018.10.08-16.10.11:280][635]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(0) Hips
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(1) Spine
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(2) Spine1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(3) Spine2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(4) Neck
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(5) Head
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(8) LeftArm
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(10) LeftHand
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(27) RightShoulder
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(28) RightArm
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(29) RightForeArm
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(30) RightHand
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(48) LeftLeg
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(49) LeftFoot
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(53) RightLeg
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(54) RightFoot
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(55) RightToeBase
+[2018.10.08-16.10.11:283][635]LogFbx: SortedLinks :(56) RightToe_End
+[2018.10.08-16.10.11:284][635]LogFbx: Parsing AnimStack mixamo.com
+[2018.10.08-16.10.11:286][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_walking'
+[2018.10.08-16.10.11:286][635]LogLinker: Can't find file '/Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_walking'
+[2018.10.08-16.10.11:438][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_walking.mutant_walking
+[2018.10.08-16.10.11:438][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.mutant_walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.08-16.10.17:980][327]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_punch.mutant_punch
+[2018.10.08-16.10.22:462][732]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_swiping.mutant_swiping
+[2018.10.08-16.10.31:809][589]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RunnerFiles/Blueprints/Crocodile/animations/mutant_roaring.mutant_roaring
+[2018.10.08-16.10.47:353][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/Crocodile/Throw" FILE="D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw.uasset" SILENT=true
+[2018.10.08-16.10.47:380][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw2CF3AF604E574F69FC2480A3FBD52193.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw.uasset'
+[2018.10.08-16.10.47:386][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton" FILE="D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton.uasset" SILENT=true
+[2018.10.08-16.10.47:392][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_Skeleton8135EF7441FFD4D954A6949D216B6F94.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw_Skeleton.uasset'
+[2018.10.08-16.10.47:398][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset" FILE="D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset.uasset" SILENT=true
+[2018.10.08-16.10.47:402][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_PhysicsAsset926A65AB406978F086A117B4C8BB0F21.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw_PhysicsAsset.uasset'
+[2018.10.08-16.10.47:408][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Blueprints/Crocodile/Throw_Anim" FILE="D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw_Anim.uasset" SILENT=true
+[2018.10.08-16.10.47:413][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Throw_Anim5897A9B64C362FE4890ED9851C797639.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/Throw_Anim.uasset'
+[2018.10.08-16.10.47:453][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/jump_attack083858DC429B655B1A777A9DD12CA9B2.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/jump_attack.uasset'
+[2018.10.08-16.10.47:481][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/left_turn_4514073DE14316750DF5E807AF57B22CCB.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/left_turn_45.uasset'
+[2018.10.08-16.10.47:510][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_breathing_idle3FF8F42B49BBE507665087AA93E80A67.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_breathing_idle.uasset'
+[2018.10.08-16.10.47:539][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_dyingA9AF1B8148E951DF2E1AC2AE6D398859.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_dying.uasset'
+[2018.10.08-16.10.47:568][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_flexing_muscles269D525D46FC1BB52793B8A91FCAB3CA.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_flexing_muscles.uasset'
+[2018.10.08-16.10.47:599][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_idle__2_BE5DBE6745DF908B7C3EDD8E29298037.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle__2_.uasset'
+[2018.10.08-16.10.47:629][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_idle330F17A14890B80A6B291C9CE7FCB487.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_idle.uasset'
+[2018.10.08-16.10.47:704][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_jump_attackE81A703645EE98A87F76EC94204F3A84.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_jump_attack.uasset'
+[2018.10.08-16.10.47:734][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_jumping__2_8E5ED1204BD937449BC8EF96C46DFD40.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping__2_.uasset'
+[2018.10.08-16.10.47:763][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_jumping9A9235794B23E0D7587B3A9C7E541879.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_jumping.uasset'
+[2018.10.08-16.10.47:792][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_left_turn_45D52D6D704792DFFE279CFFAE413F6D17.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_left_turn_45.uasset'
+[2018.10.08-16.10.47:819][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_punchE5307C53477E4D83E8F2B497C5A3E0F0.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_punch.uasset'
+[2018.10.08-16.10.47:846][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_right_turn_45__2_2B48A074401BD1878263DEB07B609550.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45__2_.uasset'
+[2018.10.08-16.10.47:874][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_right_turn_45A19096864534272463E5FA9288313AC8.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_45.uasset'
+[2018.10.08-16.10.47:905][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_right_turn_90205681874C582E83DDE169B2E50DC6B3.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_right_turn_90.uasset'
+[2018.10.08-16.10.47:935][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_roaringAC008C1645BF9ECFF4768AB336FDE47F.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_roaring.uasset'
+[2018.10.08-16.10.47:964][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_run178E3D074CBC55EB686EE1810C9AA714.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_run.uasset'
+[2018.10.08-16.10.47:992][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_swipingA4876DF74F6AE20A5FCFC6BCC31A933D.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_swiping.uasset'
+[2018.10.08-16.10.48:019][ 94]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/mutant_walking0A3AA68A42FF51309CBFF2AF20E4C1E4.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/Crocodile/animations/mutant_walking.uasset'
+[2018.10.08-16.11.36:049][300]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.08-16.12.53:374][273]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL_Anim.Flamingo_Jumping_FINAL_Anim
+[2018.10.08-16.12.53:380][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.08-16.12.53:405][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.08-16.12.53:672][273]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.08-16.14.11:489][586]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL.Flamingo_Jumping_FINAL
+[2018.10.08-16.14.11:493][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.08-16.14.11:519][586]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.08-16.14.11:712][586]LogSlate: Took 0.001882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.08-16.14.23:808][ 19]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1487).
+[2018.10.08-16.14.29:841][689]LogSkeletalMesh: Building Skeletal Mesh Flamingo_Jumping_FINAL...
+[2018.10.08-16.14.29:881][689]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL.Flamingo_Jumping_FINAL
+[2018.10.08-16.14.29:881][689]LogMaterial: Warning: Material /Game/RunnerFiles/Meshes/Boots/Buckle.Buckle needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.08-16.14.29:884][689]LogMaterial: Display: Missing cached shader map for material Buckle, compiling. 
+[2018.10.08-16.14.29:911][689]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.08-16.14.29:911][689]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.08-16.14.29:911][689]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.08-16.14.29:911][689]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.08-16.14.31:940][865]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.08-16.14.32:361][902]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.08-16.14.39:712][709]LogSkeletalMesh: Building Skeletal Mesh Flamingo_Jumping_FINAL...
+[2018.10.08-16.14.39:752][709]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL.Flamingo_Jumping_FINAL
+[2018.10.08-16.14.39:752][709]LogMaterial: Warning: Material /Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3.aiStandardSurface3 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.08-16.14.39:756][709]LogMaterial: Display: Missing cached shader map for material aiStandardSurface3, compiling. 
+[2018.10.08-16.14.39:786][709]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.08-16.14.39:787][709]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.08-16.14.39:787][709]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.08-16.14.39:787][709]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.08-16.14.41:380][841]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.08-16.14.41:783][877]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.08-16.14.49:046][692]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Flamingo_Jumping_FINALB910BE0143DB02C26CE5699B7B5C80EA.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Blueprints/flamingo/Flamingo_Jumping_FINAL.uasset'
+[2018.10.08-16.19.01:123][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/FirstMap' took 0.017
+[2018.10.08-16.19.01:125][215]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiles/Meshes/Boots/Buckle] ([1] browsable assets)...
+[2018.10.08-16.19.01:140][215]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RunnerFiles/Meshes/Boots/Buckle.Buckle]
+[2018.10.08-16.19.01:140][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Meshes/Boots/Buckle]
+[2018.10.08-16.19.01:140][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Meshes/Boots/Buckle" FILE="D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Meshes/Boots/Buckle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.08-16.19.01:159][215]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Buckle_Auto2EFCD4B904D7F267C24B7EFB1EA4815EF.tmp' to 'D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Meshes/Boots/Buckle_Auto2.uasset'
+[2018.10.08-16.19.01:162][215]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3] ([1] browsable assets)...
+[2018.10.08-16.19.01:175][215]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3.aiStandardSurface3]
+[2018.10.08-16.19.01:176][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3]
+[2018.10.08-16.19.01:195][215]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/aiStandardSurface3_Auto2A88AB4FF41E6E385FFA8F69484A8B926.tmp' to 'D:/Github/CRANE/FlaminGo/Saved/Autosaves/Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3_Auto2.uasset'
+[2018.10.08-16.19.01:197][215]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.10.08-16.20.15:656][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-16.44.59:491][182]LogSlate: Window 'Message Log' being destroyed
+[2018.10.08-16.44.59:493][182]LogSlate: Window 'Message Log' being destroyed
+[2018.10.08-16.58.59:854][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-18.03.19:485][987]LogSlate: Window 'Flamingo_Jumping_FINAL' being destroyed
+[2018.10.08-18.03.19:489][987]LogSlate: Window 'Flamingo_Jumping_FINAL' being destroyed
+[2018.10.08-18.03.21:303][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Meshes/Boots/Buckle" FILE="D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Boots/Buckle.uasset" SILENT=true
+[2018.10.08-18.03.21:318][126]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/Buckle50AEC01C4184639A929AF38782E935D1.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Boots/Buckle.uasset'
+[2018.10.08-18.03.21:324][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerFiles/Meshes/Magnet/aiStandardSurface3" FILE="D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Magnet/aiStandardSurface3.uasset" SILENT=true
+[2018.10.08-18.03.21:338][126]LogSavePackage: Moving 'D:/Github/CRANE/FlaminGo/Saved/aiStandardSurface3F75170B84788598260A144AD9955A214.tmp' to 'D:/Github/CRANE/FlaminGo/Content/RunnerFiles/Meshes/Magnet/aiStandardSurface3.uasset'
+[2018.10.08-18.03.22:505][254]LogSlate: Window 'FlaminGo - Unreal Editor' being destroyed
+[2018.10.08-18.03.22:505][254]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.08-18.03.22:714][255]Cmd: QUIT_EDITOR
+[2018.10.08-18.03.22:751][255]LogExit: Preparing to exit.
+[2018.10.08-18.03.23:664][255]LogExit: Editor shut down
+[2018.10.08-18.03.23:665][255]LogExit: Transaction tracking system shut down
+[2018.10.08-18.03.24:373][255]LogExit: Object subsystem successfully closed.
+[2018.10.08-18.03.24:396][255]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.08-18.03.24:401][255]LogD3D11RHI: Shutdown
+[2018.10.08-18.03.24:401][255]LogD3D11RHI: CleanupD3DDevice
+[2018.10.08-18.03.24:414][255]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (618)
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module AnimationEditor (612)
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.08-18.03.24:426][255]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.08-18.03.24:428][255]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.08-18.03.24:429][255]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.08-18.03.24:430][255]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.08-18.03.24:430][255]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.08-18.03.24:430][255]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.08-18.03.24:430][255]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.08-18.03.24:430][255]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.08-18.03.25:678][255]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.08-18.03.25:679][255]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.08-18.03.25:733][255]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.08-18.03.25:734][255]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.08-18.03.25:735][255]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.08-18.03.25:735][255]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.08-18.03.25:977][255]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.08-18.03.25:980][255]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.08-18.03.25:981][255]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.08-18.03.25:982][255]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.08-18.03.26:082][255]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.08-18.03.26:182][255]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.08-18.03.26:183][255]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.08-18.03.26:183][255]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.08-18.03.26:183][255]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.08-18.03.26:183][255]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.08-18.03.26:183][255]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.08-18.03.26:185][255]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.08-18.03.26:185][255]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.08-18.03.26:185][255]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.08-18.03.26:185][255]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.08-18.03.26:185][255]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.08-18.03.26:185][255]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.08-18.03.26:186][255]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.08-18.03.26:192][255]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.08-18.03.26:194][255]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.08-18.03.26:195][255]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.08-18.03.26:195][255]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.08-18.03.26:195][255]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.08-18.03.26:195][255]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.08-18.03.26:220][255]LogDerivedDataCache: Shutdown
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.08-18.03.26:220][255]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.08-18.03.26:221][255]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.08-18.03.26:226][255]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.08-18.03.26:226][255]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.08-18.03.26:230][255]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.08-18.03.26:230][255]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.08-18.03.26:254][255]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.08-18.03.26:255][255]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.08-18.03.26:256][255]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.08-18.03.26:256][255]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.08-18.03.26:284][255]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.08-18.03.26:284][255]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.08-18.03.26:284][255]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B12042B-4AF4-9F15-8541-4BB94F5F6235%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=74ad4f1048801b1d9896ddbf9e111a50%7C4501aec3dc88488aaa73f02244674a6e%7C02531de5-3132-4001-b222-916c0fd8666e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.08-18.03.26:289][255]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.08-18.03.26:290][255]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.08-18.03.26:290][255]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.08-18.03.26:291][255]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.08-18.03.26:296][255]LogExit: Exiting.
+[2018.10.08-18.03.26:320][255]Log file closed, 10/08/18 19:03:26
