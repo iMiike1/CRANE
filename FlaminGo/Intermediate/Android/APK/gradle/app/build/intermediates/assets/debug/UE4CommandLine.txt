@@ -1,0 +1,1 @@
+../../../FlaminGo/FlaminGo.uproject  /Game/ThirdPersonBP/Maps/FirstMap -Messaging -SessionId=7EDDCE55407E0E070BF8A89A81A5B846 -SessionOwner="James" -SessionName="Launch On Device" -iterative
